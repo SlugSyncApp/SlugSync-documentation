@@ -56,13 +56,13 @@ The FastAPI backend and database are deployed on Render, a cloud platform that h
 
 
 - The user opens the app and signs in with their UCSC email.
-
+    ![Sign In Page](sign_in_page.jpg)
 - The home screen shows all upcoming events in a card-swiping format.
-
+    ![Home Screen](home_page.jpg)
 - Users can favorite events and add it to the "Favorites" page.
-
+  ADD FAVORITES PAGE
 - Users can tap an event to view details, location, and club info.
-
+  ADD EVENT DETAIL VIEW
 - Club reps can log in through a role-based interface to post new events.
 
 
