@@ -59,7 +59,7 @@ The FastAPI backend and database are deployed on Render, a cloud platform that h
 
 - The home screen shows all upcoming events in a card-swiping format.
 
-- Swiping right saves the event to their “Interested” list; swiping left skips it.
+- Users can favorite events and add it to the "Favorites" page.
 
 - Users can tap an event to view details, location, and club info.
 
