@@ -92,7 +92,7 @@ If any of these checks fail, the request is rejected.
 
 This approach balances **security**, **fair access**, and **ease of use**, while keeping the system scalable as more organizations join the platform.
 
-## Application Screenshots (Screenshots will be added)
+## Application Screenshots
 
 
 - The user opens the app and signs in with their UCSC email.
