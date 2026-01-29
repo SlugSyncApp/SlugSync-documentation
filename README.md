@@ -98,9 +98,9 @@ This approach balances **security**, **fair access**, and **ease of use**, while
 <img src="ui/home_page.jpg" alt="Sign In Page" width="300">
 
 - Users can favorite events and add it to the "Favorites" page.
-  ADD FAVORITES PAGE
+<img src="ui/favorites_page.jpg" alt="Favorites Page" width="300">
 - Users can tap an event to view details, location, and club info.
-  ADD EVENT DETAIL VIEW
+<img src="ui/event_detail_view.jpg" alt="Sign In Page" width="300">
 - Club reps can log in through a role-based interface to post new events.
 
 
