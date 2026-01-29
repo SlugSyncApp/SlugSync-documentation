@@ -1,4 +1,5 @@
 # SlugSync
+**Created By: Vihari Tejomurtula, Raksshana Harish Babu, Nisheeth Chowdary Velicheti, Praneeth Mandalapu**
 SlugSync - A centralized events hub for UCSC students, with a FastAPI backend and Swift frontend so students don't have to manually search Instagram to find opportunities that could provide them real value.
 
 ## Problem Motivation
