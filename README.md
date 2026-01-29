@@ -106,7 +106,7 @@ This approach balances **security**, **fair access**, and **ease of use**, while
 - Users can tap an event to view details, location, and club info.
 <img src="ui/event_detail_view.jpg" alt="Sign In Page" width="300">
 - Club reps can log in through a role-based interface to post new events.
-
+<img src="ui/add_event.jpg" alt="Add Event Page" width="300">
 
 ## Application Workflow
 
