@@ -9,6 +9,9 @@ Many UCSC students face the challenge of finding opportunities/events to build t
 - Implements search and filtering functionality by organization, category, keywords, and event date
 - Designed as a mobile-first platform with a native Swift iOS frontend
 
+## Link To Demo Video 
+- https://youtube.com/shorts/DzuJBiwZNzY
+
 ## Platform Features 
 
 - Event Feed: Browse upcoming UCSC club events in one centralized feed.
